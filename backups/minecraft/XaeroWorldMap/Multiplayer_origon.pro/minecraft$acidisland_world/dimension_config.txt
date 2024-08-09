@@ -1,0 +1,2 @@
+MWName:mw$default:Map 1
+caveModeType:1

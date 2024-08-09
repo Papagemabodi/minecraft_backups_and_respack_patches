@@ -1,0 +1,6 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:real target:R:59:71:-183:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:target:T:-569:72:-318:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:origin:O:-482:244:-529:0:false:0:gui.xaero_default:false:0:0:false

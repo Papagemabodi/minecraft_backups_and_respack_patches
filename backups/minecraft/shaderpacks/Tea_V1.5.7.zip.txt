@@ -1,0 +1,13 @@
+#Fri Aug 09 10:18:32 EEST 2024
+wavingFoliage=false
+AA=2
+CSR=255.0
+FGrain=true
+AOSamples=35
+ambientOcclusionLevel=0.2
+CSBOX=true
+AOAmount=1.2
+ndeSat=13.0
+CSB=145.0
+CSG=170.0
+EFOG=0

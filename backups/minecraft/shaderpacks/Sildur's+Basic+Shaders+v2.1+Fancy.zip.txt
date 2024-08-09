@@ -1,0 +1,19 @@
+#Fri Oct 27 15:18:14 EEST 2023
+Waving_Fire=false
+Waving_Grass=false
+Waving_Water=false
+SSAO=false
+Waving_Lava=false
+Waving_Entities=false
+waves_amplitude=1.15
+TAA=false
+Colorboost=true
+customLight=true
+Waving_Lanterns=false
+Waving_Leaves=false
+Waving_Tallgrass=false
+emissive_B=0.8
+gamma=3.0
+emissive_G=2.0
+Fog=false
+Waving_Vines=false

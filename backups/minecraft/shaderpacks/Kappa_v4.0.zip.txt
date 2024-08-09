@@ -1,0 +1,14 @@
+#Sat Mar 23 11:26:28 EET 2024
+waterVolumeEnabled=false
+cloudVolumeEnabled=false
+fallbackSSAO=false
+ssptEnabled=false
+shadowVPSEnabled=false
+airTransmittanceHQ=false
+exposureComplexEnabled=false
+indirectLightSmoothing=false
+shadowMapResolution=1024
+shadowFilterIterations=9
+CLOUD_RENDER_LOD=4.0
+contactShadowsEnabled=false
+fogVolumeEnabled=false

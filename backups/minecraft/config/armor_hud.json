@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "side": "Left",
+  "anchor": "Hotbar",
+  "orientation": "Horizontal",
+  "offhandSlotBehavior": "Leave_Space",
+  "offsetX": 0,
+  "offsetY": 0,
+  "style": "Squared_Corners",
+  "slotsShown": "Equipped",
+  "emptyIconsShown": true,
+  "reversed": false,
+  "pushBossbars": true,
+  "pushStatusEffectIcons": true,
+  "pushSubtitles": true,
+  "warningShown": false,
+  "minDurabilityValue": 10,
+  "minDurabilityPercentage": 0.115,
+  "warningIconBobbingIntervalMs": 2000.0
+}

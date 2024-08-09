@@ -1,0 +1,15 @@
+{
+  "controlScheme": "Keyboard & Mouse",
+  "modifiedActions": {
+    "Hook": [
+      {
+        "path": "<Keyboard>/e"
+      }
+    ],
+    "Next Variation": [
+      {
+        "path": "<Keyboard>/r"
+      }
+    ]
+  }
+}

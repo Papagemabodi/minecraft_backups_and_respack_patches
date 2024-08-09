@@ -1,0 +1,10 @@
+#Sat Apr 06 15:01:33 EEST 2024
+shadowDistance=128.0
+LIGHT_SHAFT=false
+SHADOW_FILTER=false
+shadowMapResolution=1024
+VIGNETTE=false
+LENS_FLARE=false
+SHADOW_ENTITY=false
+SHADOW_COLOR=false
+AO=false

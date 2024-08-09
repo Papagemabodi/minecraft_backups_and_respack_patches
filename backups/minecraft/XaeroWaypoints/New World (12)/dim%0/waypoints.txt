@@ -1,0 +1,6 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:smiths:S:-1196:87:242:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:myhouse:M:-1219:90:204:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:shelter:S:-255:63:-302:8:false:0:gui.xaero_default:false:0:0:false

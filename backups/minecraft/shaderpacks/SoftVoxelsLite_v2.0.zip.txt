@@ -1,0 +1,9 @@
+#Wed Jun 12 17:02:35 EEST 2024
+CLOUD_PLANE0_ENABLED=false
+RESAMPLING_PARAM=0.75
+ResolutionScale=1.0
+SSPT_Enabled=false
+godraysEnabled=false
+motionblurToggle=false
+screenspaceReflectionsEnabled=false
+wetnessMode=2

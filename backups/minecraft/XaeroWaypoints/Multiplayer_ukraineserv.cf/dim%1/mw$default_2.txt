@@ -1,0 +1,9 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:hram:H:-345:54:1103:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint:D:-734:-210:-1801:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:lotfortoper:L:-4792:64:-2773:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:unlooted2:U:3272:64:3249:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:noloot1:N:-2526:64:-2546:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:NONLOOT:N:-574:64:-1843:11:false:0:gui.xaero_default:false:0:0:false

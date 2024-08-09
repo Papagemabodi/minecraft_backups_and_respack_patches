@@ -1,0 +1,28 @@
+
+[general]
+	announce_new_song = 0
+	link_mode = 1
+	first_time = false
+	mod_mode = -1
+	notification_album_art_location = 1
+	music_service = "spotify"
+	announcement_message = "&aCraftify > &7Now Playing: &b${song} by ${artists}"
+
+[servers]
+	allowed_servers = ""
+	send_songs_to_servers = false
+
+[rendering]
+	controls = false
+	display_mode = 2
+	position_x_offset = 0.0
+	position_y_offset = 0.0
+	anchor_point = 0
+	render_type = 2
+
+[login]
+	refresh_token = "AQArpF5OMRsYVbSNGSzrnTqQWdOQxjrWInAMOFaCqZ1mG50XeYeIKyoI2Cz5XhSllWUBmjw3r-d0GWuvCqFoNT8uqzct0ySmwpvesIbyTfiRNFyP7Y_BfOsGXoo1Nb3d6Js"
+	spotify_login_token = "BQCgqy871hbXeGm8ba_8MCn5YGH5vkCcBRZ28nzMV3kKr7VvWPqOk8-4oVKoGda7aDEUnMdWc20L6mSyPlUprDW9nerPvDTIlNAcvqNQquNF1vXQq3mzlwfUVGp4PEsOjYuf9tHv2pJGGEa91fPbnrtkhXsS7pOS9GXl_8iGB9mTJvQaan_zi2mrhsHSVYQz8BaStDuLEzf-GR3lOT-9"
+	ytmd_token = ""
+	service_port = 8880
+

@@ -1,0 +1,4 @@
+ignoreHeightmaps:false
+playerTeleportCommandFormat:/tp @s {name}
+teleportCommandFormat:/tp @s {x} {y} {z}
+teleportAllowed:true

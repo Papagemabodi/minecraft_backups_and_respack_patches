@@ -1,0 +1,19 @@
+{
+  "userSet": {
+    "selected": {
+      "username": "FreshCrazy",
+      "type": "ely"
+    },
+    "list": [
+      {
+        "id": 3581662,
+        "username": "FreshCrazy",
+        "displayName": "FreshCrazy",
+        "uuid": "61365a7f-5be7-4d42-b688-3a21cf5d7bc0",
+        "registeredAt": 1609775649,
+        "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJpYXQiOjE3MjMxODYyODIsImNsaWVudF9pZCI6InRsYXVuY2hlciIsInNjb3BlIjoib2J0YWluX293bl9hY2NvdW50X2luZm8gbWluZWNyYWZ0X3NlcnZlcl9zZXNzaW9uIiwic3ViIjoiZWx5fDM1ODE2NjIifQ.f9stHwd6FxWsa1eMuGTztSU1l0V3AnGw6dC4WKMNIrFZIWr7ae09UNj60y_efCCio7WE6gBB333bc-PgWiD6rA",
+        "type": "ely"
+      }
+    ]
+  }
+}

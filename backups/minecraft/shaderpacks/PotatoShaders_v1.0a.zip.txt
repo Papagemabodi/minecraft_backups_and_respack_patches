@@ -1,0 +1,10 @@
+#Wed Jul 12 15:46:51 EEST 2023
+taaEnabled=false
+windEffectsEnabled=false
+refractionEnabled=false
+motionblurToggle=false
+bloomEnabled=false
+transparencyBlurEnabled=false
+imageSharpenEnabled=false
+vignetteEnabled=false
+directionalSSAO=false

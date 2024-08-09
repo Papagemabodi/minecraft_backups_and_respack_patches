@@ -1,0 +1,23 @@
+{
+  "hiddenF3": [
+    "[Iris]",
+    "[Entity Batching]",
+    "Sodium",
+    "[Culling]"
+  ],
+  "hiddenLogs": [
+    "Fabric",
+    "fabric",
+    "- java",
+    "- minecraft",
+    "Indigo",
+    "Compatibility",
+    "mods",
+    "BiomeModificationImpl"
+  ],
+  "hideClient": true,
+  "hideServer": true,
+  "showResourcePack": false,
+  "serverSpoofName": "vanilla",
+  "hideFabricAPI": true
+}

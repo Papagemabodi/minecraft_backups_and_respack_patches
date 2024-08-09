@@ -1,0 +1,13 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:шахта моя:Ш:7449:75:-7123:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:ліс(під вирубку):Л:7415:71:-7002:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:mainhome:M:7196:65:-7425:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:mainhata:M:6806:121:-7538:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:hata:H:8578:70:-20:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:spawn:S:-417:98:536:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint:D:-7178:63:257:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:-7178:63:257:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:-7178:63:257:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:freemapfap:F:-7193:90:225:5:false:0:gui.xaero_default:false:0:0:false

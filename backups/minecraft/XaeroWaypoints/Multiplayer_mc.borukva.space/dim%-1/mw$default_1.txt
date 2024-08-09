@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:mainhomenether:M:858:65:-932:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:homeport:H:1075:65:-6:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:halyava:H:-903:128:3:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint:D:4:23:-1020:0:false:1:gui.xaero_default:false:0:1:true

@@ -1,0 +1,11 @@
+#Fri May 31 14:49:08 EEST 2024
+iceRefl=true
+bloom_strength=1.0
+metallicRefl=true
+ColoredShadows=false
+shadowMapResolution=3072
+Refraction=true
+polishedRefl=true
+grass_shadows=false
+Penumbra=true
+RainReflections=true

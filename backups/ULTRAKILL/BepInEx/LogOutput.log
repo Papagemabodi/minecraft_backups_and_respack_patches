@@ -1,0 +1,263 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - ULTRAKILL (13.05.2024 5:48:26)
+[Info   :   BepInEx] Running under Unity v2019.4.40.16762411
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.17020
+[Info   :   BepInEx] Supports SRE: False
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 9 plugins to load
+[Info   :   BepInEx] Loading [PluginConfigurator 1.10.0]
+[Info   :PluginConfigurator] Working path: C:\Games\ULTRAKILL\BepInEx\plugins\PluginConfigurator\PluginConfigurator.dll, Working dir: C:\Games\ULTRAKILL\BepInEx\plugins\PluginConfigurator
+[Info   :PluginConfigurator] Dirty config detected. Saving configuration for Plugin Configurator : com.eternalUnion.pluginConfigurator
+[Info   :PluginConfigurator] Saving to C:\Games\ULTRAKILL\BepInEx\config\PluginConfigurator\com.eternalUnion.pluginConfigurator.config
+[Info   :PluginConfigurator] Plugin com.eternalUnion.pluginConfigurator is loaded!
+[Info   :   BepInEx] Loading [CybergrindDeathcam 1.0.2]
+[Info   :   BepInEx] Loading [CybergrindMusicExplorer 1.6.3]
+[Info   :CybergrindMusicExplorer] Initializing Cybergrind Music Explorer
+[Info   :   BepInEx] Loading [StyleEditor 1.0.4]
+[Info   :StyleEditor] Plugin eternalUnion.ultrakill.styleEditor is loaded!
+[Info   :   BepInEx] Loading [WesV2 1.2.0]
+[Info   :     WesV2] Plugin Wes V2 is loaded!
+[Info   :   BepInEx] Loading [Inner Monologue 1.0.0]
+[Info   :   BepInEx] Loading [V1_Gaming 1.0.0.0]
+[Info   :   BepInEx] Loading [UltraTweaker 1.1.2]
+[Info   :   BepInEx] Loading [RankTitleSwapper 1.1.0]
+[Message:   BepInEx] Chainloader startup complete
+[Info   :PluginConfigurator] Loaded sprite from https://c4.wallpaperflare.com/wallpaper/981/954/357/ultrakill-red-background-v1-ultrakill-weapon-hd-wallpaper-thumb.jpg successfully
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "death that just happened" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "death im good" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "death hold on im not ready yet" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "death um can we get a rewind here" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "death that was just a warmup" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "death does anyone have some orange slices" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "death oh my vital organs" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "death oh that smarts" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "ultrakill stylish" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "ultrakill looks like this is my big day" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "ultrakill where am i" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "ultrakill im on a roll with this one" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "ultrakill fruity" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "ultrakill moan 2" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "ultrakill moans" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "ultrakill finally its mine" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "ultrakill thats the good stuff" (FMOD error: File not found. )
+[Info   : Unity Log] UltraTweaker v1.1.2 has started.
+[Info   : Unity Log] Searching UltraTweaker for tweaks.
+[Info   : Unity Log] Found tweak; CloseQuarters.
+[Info   : Unity Log] Found tweak; ExplodeOnDeath.
+[Info   : Unity Log] Found tweak; FallDamage.
+[Info   : Unity Log] Found tweak; FloorIsLava.
+[Info   : Unity Log] Found tweak; Florpify.
+[Info   : Unity Log] Found tweak; ForceGunPanel.
+[Info   : Unity Log] Found tweak; FPSCount.
+[Info   : Unity Log] Found tweak; Fragility.
+[Info   : Unity Log] Found tweak; Fresh.
+[Info   : Unity Log] Found tweak; FuelLeak.
+[Info   : Unity Log] Found tweak; Hitstop.
+[Info   : Unity Log] Found tweak; Ice.
+[Info   : Unity Log] Found tweak; Mitosis.
+[Info   : Unity Log] Found tweak; Sandify.
+[Info   : Unity Log] Found tweak; Speed.
+[Info   : Unity Log] Found tweak; StatPanels.
+[Info   : Unity Log] Found tweak; Submerged.
+[Info   : Unity Log] Found tweak; Tankify.
+[Info   : Unity Log] Found tweak; UIScale.
+[Info   : Unity Log] Found tweak; Ultrahot.
+[Info   : Unity Log] Found tweak; UnobtrusiveBlood.
+[Info   : Unity Log] Found tweak; ViewmodelTransform.
+[Info   : Unity Log] Enabling tweak ExplodeOnDeath.
+[Info   : Unity Log] Enabling tweak Florpify.
+[Info   : Unity Log] Searching UltraTweaker for tweaks.
+[Info   : Unity Log] Searching RankTitleSwapper for tweaks.
+[Info   : Unity Log] Found tweak; TitleTweak.
+[Info   : Unity Log] Enabling tweak TitleTweak.
+[Warning: Unity Log] Null list, returning.
+[Info   : Unity Log] C:/Games/ULTRAKILL/ULTRAKILL_Data/StreamingAssets/aa
+[Info   : Unity Log] (LoadSceneAsync) Loading scene Intro
+[Warning: Unity Log] Null list, returning.
+[Info   : Unity Log] (LoadSceneAsync) Loading scene Main Menu
+[Info   : Unity Log] /Keyboard/0
+[Info   : Unity Log] <color=#50ADD8>[Discord]</color> <color=#CCE6F0>Couldn't initialize Discord</color>
+[Info   : Unity Log] <color=#4AC1E4>[Steam]</color> <color=#CCEDFF>Steam initialized!</color>
+[Warning: Unity Log] Null list, returning.
+[Info   : Unity Log] Offsetting Gameplay Options by -33
+[Info   : Unity Log] Offsetting Controls Options by -33
+[Info   : Unity Log] Offsetting Video Options by -33
+[Info   : Unity Log] Offsetting Audio Options by -33
+[Info   : Unity Log] Offsetting HUD Options by -33
+[Info   : Unity Log] Offsetting Assist Options by -33
+[Info   : Unity Log] Offsetting ColorBlindness Options by -33
+[Info   : Unity Log] Offsetting Save Slots by -33
+[Info   : Unity Log] Offsetting Palette Selector by -33
+[Info   : Unity Log] Offsetting Rumble Settings by -33
+[Info   : Unity Log] Offsetting Advanced Options by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting New Game Object by -33
+[Info   : Unity Log] <color=#5494EE>[Presence]</color> <color=#CCE0FF>Scene loaded: Main Menu</color>
+[Info   : Unity Log] Created new voice object
+[Info   : Unity Log] Set Difficulty to: 0
+[Info   : Unity Log] Secret Mission Status: 0
+[Info   : Unity Log] True Score: 2. Real score: 2
+[Info   : Unity Log] Secret Mission Status: 2
+[Info   : Unity Log] True Score: 2. Real score: 2.25
+[Info   : Unity Log] Secret Mission Status: 0
+[Info   : Unity Log] True Score: 2. Real score: 2.5
+[Info   : Unity Log] Secret Mission Status: 1
+[Info   : Unity Log] Secret Mission Status: 1
+[Info   : Unity Log] Error in finding 666 Data
+[Info   : Unity Log] Error in finding 666 Data
+[Info   : Unity Log] Error in finding 666 Data
+[Info   : Unity Log] Secret Mission Status: 2
+[Info   : Unity Log] True Score: 3. Real score: 3.25
+[Info   : Unity Log] Secret Mission Status: 0
+[Info   : Unity Log] True Score: 1. Real score: 1.25
+[Info   : Unity Log] Secret Mission Status: 0
+[Info   : Unity Log] True Score: 3. Real score: 3
+[Info   : Unity Log] Secret Mission Status: 0
+[Info   : Unity Log] True Score: 2. Real score: 1.5
+[Info   : Unity Log] Secret Mission Status: 0
+[Info   : Unity Log] Error in finding 30 Data
+[Info   : Unity Log] Error in finding 31 Data
+[Info   : Unity Log] Error in finding 32 Data
+[Info   : Unity Log] Error in finding 33 Data
+[Info   : Unity Log] Secret Mission Status: 0
+[Info   : Unity Log] Error in finding 34 Data
+[Info   : Unity Log] Error in finding 35 Data
+[Info   : Unity Log] (LoadSceneAsync) Loading scene Endless
+[Warning: Unity Log] Null list, returning.
+[Info   : Unity Log] <color=#5494EE>[Presence]</color> <color=#CCE0FF>Scene loaded: Endless</color>
+[Info   : Unity Log] Combined arena mesh in 11 ms
+[Info   : Unity Log] Offsetting Gameplay Options by -33
+[Info   : Unity Log] Offsetting Controls Options by -33
+[Info   : Unity Log] Offsetting Video Options by -33
+[Info   : Unity Log] Offsetting Audio Options by -33
+[Info   : Unity Log] Offsetting HUD Options by -33
+[Info   : Unity Log] Offsetting Assist Options by -33
+[Info   : Unity Log] Offsetting ColorBlindness Options by -33
+[Info   : Unity Log] Offsetting Save Slots by -33
+[Info   : Unity Log] Offsetting Palette Selector by -33
+[Info   : Unity Log] Offsetting Rumble Settings by -33
+[Info   : Unity Log] Offsetting Advanced Options by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting PresetButton(Clone) by -33
+[Info   : Unity Log] Offsetting New Game Object by -33
+[Warning: Unity Log] State pit-falling is already registered
+[Info   : Unity Log] Loading Playlist
+[Info   : Unity Log] Created new voice object
+[Info   : Unity Log] Tried to pop state pit-falling, but it was not registered
+[Info   : Unity Log] Loaded custom music file=Marshmello x SVDDEN DEATH - Triumphant.mp3
+[Info   : Unity Log] Combined arena mesh in 11 ms
+[Info   : Unity Log] Resolved leaderboard 'Cyber Grind Wave Harmless' from Steamworks
+[Info   : Unity Log] Resolved leaderboard 'Cyber Grind Wave Harmless Precise' from Steamworks
+[Info   : Unity Log] Score 10.72727 submitted to Steamworks
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "death im good" (FMOD error: File not found. )
+[Error  : Unity Log] Error: Cannot create FMOD::Sound instance for clip "death im good" (FMOD error: File not found. )
+[Error  : Unity Log] Attempting to load AssetReference that has already been loaded. Handle is exposed through getter OperationHandle
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+UltraTweaker.Tweaks.Impl.ExplodeOnDeath+ExplosionPatches.ExplodeOnDeath () (at <6f74dcf87b4846329a78046e0425efdc>:0)
+NewMovement.GetHurt (System.Int32 damage, System.Boolean invincible, System.Single scoreLossMultiplier, System.Boolean explosion, System.Boolean instablack, System.Single hardDamageMultiplier, System.Boolean ignoreInvincibility) (at <e6df654645b1486c8224892f02ea84e5>:0)
+SwingCheck2.CheckCollision (UnityEngine.Collider other) (at <e6df654645b1486c8224892f02ea84e5>:0)
+SwingCheck2.OnTriggerEnter (UnityEngine.Collider other) (at <e6df654645b1486c8224892f02ea84e5>:0)
+
+[Info   :PluginConfigurator] Dirty config detected. Saving configuration for Division : divisionTest
+[Info   :PluginConfigurator] Saving to C:\Games\ULTRAKILL\BepInEx\config\PluginConfigurator\divisionTest.config
+[Error  : Unity Log] Plugin configurator controller instance destroyed in scene '9240e656c89994d44b21940f65ab57da'
+[Error  : Unity Log] Plugin was in scene 'DontDestroyOnLoad'
+[Error  : Unity Log] Object name was 'BepInEx_Manager'
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Navigate)</b> Comparing action Navigate to default action Navigate</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Navigate to Navigate - Action: 5, Base: 5</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Submit)</b> Comparing action Submit to default action Submit</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Submit to Submit - Action: 0, Base: 0</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Cancel)</b> Comparing action Cancel to default action Cancel</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Cancel to Cancel - Action: 0, Base: 0</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Point)</b> Comparing action Point to default action Point</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Point to Point - Action: 2, Base: 2</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Click)</b> Comparing action Click to default action Click</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Click to Click - Action: 2, Base: 2</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(ScrollWheel)</b> Comparing action ScrollWheel to default action ScrollWheel</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>ScrollWheel to ScrollWheel - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(MiddleClick)</b> Comparing action MiddleClick to default action MiddleClick</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>MiddleClick to MiddleClick - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(RightClick)</b> Comparing action RightClick to default action RightClick</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>RightClick to RightClick - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(TrackedDevicePosition)</b> Comparing action TrackedDevicePosition to default action TrackedDevicePosition</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>TrackedDevicePosition to TrackedDevicePosition - Action: 0, Base: 0</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(TrackedDeviceOrientation)</b> Comparing action TrackedDeviceOrientation to default action TrackedDeviceOrientation</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>TrackedDeviceOrientation to TrackedDeviceOrientation - Action: 0, Base: 0</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(ScrollSublist)</b> Comparing action ScrollSublist to default action ScrollSublist</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>ScrollSublist to ScrollSublist - Action: 0, Base: 0</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Pause)</b> Comparing action Pause to default action Pause</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Pause to Pause - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Move)</b> Comparing action Move to default action Move</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Move to Move - Action: 5, Base: 5</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Look)</b> Comparing action Look to default action Look</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Look to Look - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Dodge)</b> Comparing action Dodge to default action Dodge</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Dodge to Dodge - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Slide)</b> Comparing action Slide to default action Slide</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Slide to Slide - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Jump)</b> Comparing action Jump to default action Jump</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Jump to Jump - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Punch)</b> Comparing action Punch to default action Punch</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Punch to Punch - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Change Fist)</b> Comparing action Change Fist to default action Change Fist</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Change Fist to Change Fist - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Punch (Feedbacker))</b> Comparing action Punch (Feedbacker) to default action Punch (Feedbacker)</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Punch (Feedbacker) to Punch (Feedbacker) - Action: 0, Base: 0</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Punch (Knuckleblaster))</b> Comparing action Punch (Knuckleblaster) to default action Punch (Knuckleblaster)</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Punch (Knuckleblaster) to Punch (Knuckleblaster) - Action: 0, Base: 0</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Hook)</b> Comparing action Hook to default action Hook</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Hook to Hook - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Difference found - '<Keyboard>/r' to '<Keyboard>/e'</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Primary Fire)</b> Comparing action Primary Fire to default action Primary Fire</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Primary Fire to Primary Fire - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Secondary Fire)</b> Comparing action Secondary Fire to default action Secondary Fire</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Secondary Fire to Secondary Fire - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Next Variation)</b> Comparing action Next Variation to default action Next Variation</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Next Variation to Next Variation - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Difference found - '<Keyboard>/e' to '<Keyboard>/r'</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Previous Variation)</b> Comparing action Previous Variation to default action Previous Variation</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Previous Variation to Previous Variation - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Revolver)</b> Comparing action Revolver to default action Revolver</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Revolver to Revolver - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Shotgun)</b> Comparing action Shotgun to default action Shotgun</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Shotgun to Shotgun - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Nailgun)</b> Comparing action Nailgun to default action Nailgun</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Nailgun to Nailgun - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Railcannon)</b> Comparing action Railcannon to default action Railcannon</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Railcannon to Railcannon - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Rocket Launcher)</b> Comparing action Rocket Launcher to default action Rocket Launcher</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Rocket Launcher to Rocket Launcher - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Spawner Arm)</b> Comparing action Spawner Arm to default action Spawner Arm</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Spawner Arm to Spawner Arm - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Next Weapon)</b> Comparing action Next Weapon to default action Next Weapon</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Next Weapon to Next Weapon - Action: 0, Base: 0</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Previous Weapon)</b> Comparing action Previous Weapon to default action Previous Weapon</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Previous Weapon to Previous Weapon - Action: 0, Base: 0</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Last Used Weapon)</b> Comparing action Last Used Weapon to default action Last Used Weapon</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Last Used Weapon to Last Used Weapon - Action: 0, Base: 0</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(WheelLook)</b> Comparing action WheelLook to default action WheelLook</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>WheelLook to WheelLook - Action: 1, Base: 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Variation Slot 1)</b> Comparing action Variation Slot 1 to default action Variation Slot 1</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Variation Slot 1 to Variation Slot 1 - Action: 0, Base: 0</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC><b>(Variation Slot 2)</b> Comparing action Variation Slot 2 to default action Variation Slot 2</color>
+[Info   : Unity Log] <color=#4AE34A>[Input]</color> <color=#D6FFCC>Variation Slot 2 to Variation Slot 2 - Action:

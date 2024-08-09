@@ -1,0 +1,20 @@
+#Sat Mar 02 11:34:01 EET 2024
+Waving_Fire=false
+shadowDistance=90.0
+Waving_Grass=false
+Waving_Water=false
+SSAO=false
+Waving_Lava=false
+Waving_Entities=false
+Shadows=false
+shadowMapResolution=1024
+TAA=false
+Waving_Lanterns=false
+skyReflection=false
+grass_shadows=false
+Refractions=false
+Waving_Leaves=false
+Waving_Tallgrass=false
+Godrays=false
+Waving_Vines=false
+grays_quality=1

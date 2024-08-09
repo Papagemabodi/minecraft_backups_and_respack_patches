@@ -1,0 +1,20 @@
+{
+  "colorPalette": false,
+  "frameRateLimit": 1,
+  "simpleNailPhysics": true,
+  "bloodStainChance": 0.5,
+  "bloodStainMax": 100000.0,
+  "vSync": true,
+  "cyberGrind.enabledPatterns": "{\"enabledPatterns\":[],\"enabledPatternPacks\":[]}",
+  "cyberGrind.customSkybox": "C:\\Games\\ULTRAKILL\\CyberGrind\\Textures\\Vvizard\\Skyboxes\\Gabes mircowave_Skybox.png",
+  "cyberGrind.customGlow_0": "C:\\Games\\ULTRAKILL\\CyberGrind\\Textures\\a-vr-yellow.png",
+  "cyberGrind.customGlow_1": "C:\\Games\\ULTRAKILL\\CyberGrind\\Textures\\a-vr-yellow.png",
+  "cyberGrind.customGlow_2": "C:\\Games\\ULTRAKILL\\CyberGrind\\Textures\\a-vr-yellow.png",
+  "cyberGrind.customGrid_0": "C:\\Games\\ULTRAKILL\\CyberGrind\\Textures\\a-vr-green.png",
+  "cyberGrind.customGrid_1": "C:\\Games\\ULTRAKILL\\CyberGrind\\Textures\\a-vr-green.png",
+  "cyberGrind.customGrid_2": "C:\\Games\\ULTRAKILL\\CyberGrind\\Textures\\a-vr-green.png",
+  "cyberGrind.musicExplorer.selectedPlaylistSlot": 1,
+  "cyberGrind.musicExplorer.showCurrentTrackPanelIndefinitely": true,
+  "cyberGrind.musicExplorer.customTracksVolumeBoost": 3.0,
+  "cyberGrind.musicExplorer.preventDuplicateTracks": true
+}
